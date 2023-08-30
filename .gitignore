@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BenchmarkHash/.vs/
+/BenchmarkHash/BenchmarkHash/bin
+/BenchmarkHash/BenchmarkHash/obj
