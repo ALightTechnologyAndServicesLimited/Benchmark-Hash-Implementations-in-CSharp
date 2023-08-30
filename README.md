@@ -1,5 +1,7 @@
 # Benchmark-Hash-Implementations-in-CSharp
 
+Associated blog post - [BenchmarkDotNet with hash implementation in C#](https://www.alightservices.com/2023/08/30/benchmarkdotnet-with-hash-implementation-in-c/)
+
 This code repository shows usage of [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) and benchmarks some .Net based hash libraries.
 
 The following libraries/implementations were benchmarked:
